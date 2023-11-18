@@ -5,7 +5,7 @@ from frog import Frog
 
 pg.init()
 
-game_name = "Animação do sapínho"
+game_name = "Frog animation with sprites - Pygame"
 screen_size = (720, 480)
 background_color = (255, 255, 255)
 

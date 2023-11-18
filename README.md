@@ -1,5 +1,5 @@
 ## Frog
 
-Animação com sprites usando `pygame`.
+Frog animation with sprites - `Pygame`.
 
 ![Print](assets/printscreen.png)
